@@ -1,0 +1,40 @@
+{
+  "name": "acenup_icons_flutter",
+  "version": "0.0.1",
+  "description": "Package icons for Acenup APP",
+  "scripts": {
+    "changelog": "auto-changelog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acenup/acenup_icons_flutter.git"
+  },
+  "keywords": [
+    "Icons",
+    "Flutter"
+  ],
+  "author": "Vitor Amaral de Melo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acenup/acenup_icons_flutter/issues"
+  },
+  "homepage": "https://github.com/acenup/acenup_icons_flutter#readme",
+  "devDependencies": {
+    "auto-changelog": "^2.4.0"
+  },"auto-changelog": {
+    "commitLimit": false,
+    "unreleased": true,
+    "replaceText": {
+      "[Ff]eat:": "",
+      "[Ff]ix:": "",
+      "[Bb]reak:": ""
+    },
+    "includeBranch": [
+      "develop",
+      "main"
+    ],
+    "template": "https://gist.githubusercontent.com/vitoramaral10/b41af8d90c03f7d527ad9944f617131f/raw/3ad8e04ec811ad7f1549c2a49ceefb7d18f81ed7/changelog-template.hbs",
+    "hideEmptyReleases": true,
+    "package": true
+  }
+}
