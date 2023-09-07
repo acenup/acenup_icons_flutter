@@ -21,3 +21,4 @@ flutter:
     - family: AcenupIconsFlutter
       fonts:
         - asset: lib/fonts/AcenupIconsFlutter.ttf
+          weight: 400
