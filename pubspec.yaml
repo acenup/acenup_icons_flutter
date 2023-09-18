@@ -1,7 +1,7 @@
 name: acenup_icons_flutter
 description: A new Flutter plugin project.
 version: 0.0.1
-homepage: null
+homepage: https://github.com/acenup/acenup_icons_flutter
 
 environment:
   sdk: ">=3.1.0 <4.0.0"
