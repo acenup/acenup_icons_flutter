@@ -24,22 +24,22 @@ class AcenupIconsFlutter {
 
   static const IconData apps =
       IconData(0xe800, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData arrowDownCircle =
-      IconData(0xe802, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData arrowDown =
       IconData(0xe801, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData arrowLeftCircle =
-      IconData(0xe804, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData arrowDownCircle =
+      IconData(0xe802, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData arrowLeft =
       IconData(0xe803, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData arrowRightCircle =
-      IconData(0xe806, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData arrowLeftCircle =
+      IconData(0xe804, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData arrowRight =
       IconData(0xe805, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData arrowUpCircle =
-      IconData(0xe808, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData arrowRightCircle =
+      IconData(0xe806, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData arrowUp =
       IconData(0xe807, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData arrowUpCircle =
+      IconData(0xe808, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData camera =
       IconData(0xe809, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData check =
@@ -80,8 +80,8 @@ class AcenupIconsFlutter {
       IconData(0xe81b, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData user =
       IconData(0xe81c, fontFamily: _kFontFam, fontPackage: _kFontPkg);
-  static const IconData userTerminal =
-      IconData(0xe81d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
   static const IconData userTerminalAdd =
+      IconData(0xe81d, fontFamily: _kFontFam, fontPackage: _kFontPkg);
+  static const IconData userTerminal =
       IconData(0xe81e, fontFamily: _kFontFam, fontPackage: _kFontPkg);
 }
